@@ -76,6 +76,7 @@ build
 .build_debug/*
 .build_release/*
 distribute/*
+distribute*/*
 *.testbin
 *.bin
 python/caffe/proto/
